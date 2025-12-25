@@ -1,3 +1,6 @@
+This project demonstrates numerical simulation of electron motion
+under uniform electric and magnetic fields using Python.
+
 # Electron Motion in Uniform Electric and Magnetic Fields
 
 This project simulates the motion of an electron inside an idealized infinite solenoid,
